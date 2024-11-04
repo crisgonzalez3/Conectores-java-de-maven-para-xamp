@@ -1,0 +1,11 @@
+//Conectores java de maven para xamp
+
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>5.1.6</version>
+</dependency>
+
+
+//Y esto lo metes en el pom.xml, en lugar del que trae.
